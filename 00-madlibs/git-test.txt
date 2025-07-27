@@ -1,0 +1,13 @@
+Test for git tutorial.
+
+This line is a bigger and better line.
+
+This line came about in the development of version 3 of this file.
+
+This line then crept in during version 4.
+
+I will now retire this file. There shall be no more updates in here.
+
+Goodbye sweet test.
+
+We're back. Let's try some amending.
