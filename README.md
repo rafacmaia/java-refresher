@@ -10,11 +10,12 @@ around and start building with it again.
 
 ## What's Inside (so far) 🥡
 
-| Folder                                     | Description                                 |
-|--------------------------------------------|---------------------------------------------|
-| [`00-sandbox`](./00-sandbox)               | Sandbox space to try small snippets of code |
-| [`01-madlibs`](./01-madlibs)               | Basic little Mad Libs game                  |
-| [`02-pet-store-cart`](./02-pet-store-cart) | Simple shopping cart simulator              |
+| Folder                                       | Description                                    | Concepts Explored                  |
+|----------------------------------------------|------------------------------------------------|------------------------------------|
+| [`00-sandbox`](./00-sandbox)                 | Sandbox space to try small snippets of code    |                                    |
+| [`01-madlibs`](./01-madlibs)                 | Basic little Mad Libs game                     | User input and printing statements |
+| [`02-pet-store-cart`](./02-pet-store-cart)   | Simple shopping cart simulator                 | User input, arithmetic, printing   |
+| [`03-season-detector`](./03-season-detector) | Magical calculations to find your birth season | If..else statements                |
 
 ## To Run a Project 🚀
 
